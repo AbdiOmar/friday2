@@ -7,6 +7,6 @@ if (side1==side2 && side1==side3 && side2 ==side3){
 else if(side1==side2 || side2 == side3 || side3 == side1){
   alert("it's an Isoceles Triangle")
 }
-else if (side1 != side2 || side2 !== side3 || side3 != side!){
+else if (side1!==side2!==side3){
   alert("It's a Scalene Triangle")
 }
