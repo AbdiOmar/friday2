@@ -1,5 +1,5 @@
 # friday2
-# {STATIC WEBPAGE}
+# {STATIC WEBPAGE WITH JS}
 #### {It is my first JS projects i have created}, {Date:14-9-2018}
 #### By **{Abdi Wahab Mohamed Omar}**
 ## Description
