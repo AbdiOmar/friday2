@@ -1,12 +1,17 @@
-var side1 = parseInt(prompt("Enter First Side"));
-var side2 = parseInt(prompt("Enter Second Side"));
-var side3 = parseInt(prompt("Enter Third Side"));
+function triangle(){
+
+
+
+var side1 = parseInt(document.getElementById("First_side").value));
+var side2 = parseInt(document.getElementById("Second_side").value);
+var side3 = parseInt(document.getElementById("Third_side").value);
 if (side1==side2 && side1==side3 && side2 ==side3){
-  alert("it's an Equilateral triangle")
+  documentgetElementById('').innerHTML="it's an Equilateral Triangle"
 }
 else if(side1==side2 || side2 == side3 || side3 == side1){
-  alert("it's an Isoceles Triangle")
+  documentgetElementById('').innerHTML="it's an Isoceles Triangle"
 }
 else if (side1!==side2!==side3){
-  alert("It's a Scalene Triangle")
+  documentgetElementById('').innerHTML="It's a Scalene Triangle"
+}
 }
