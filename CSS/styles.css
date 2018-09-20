@@ -3,7 +3,7 @@ body {
     background-repeat:  no-repeat;
     background-size:cover;
 
-. header h1  {
+h1 {
       color: white;
       text-transform:inherit;
       font-size: 30px;
